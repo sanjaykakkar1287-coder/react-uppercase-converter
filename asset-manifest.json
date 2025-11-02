@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/react-uppercase-converter/static/css/main.f15e0d7f.css",
+    "main.css": "/react-uppercase-converter/static/css/main.1fbf8c9c.css",
     "main.js": "/react-uppercase-converter/static/js/main.b8b4ad40.js",
     "index.html": "/react-uppercase-converter/index.html",
-    "main.f15e0d7f.css.map": "/react-uppercase-converter/static/css/main.f15e0d7f.css.map",
+    "main.1fbf8c9c.css.map": "/react-uppercase-converter/static/css/main.1fbf8c9c.css.map",
     "main.b8b4ad40.js.map": "/react-uppercase-converter/static/js/main.b8b4ad40.js.map"
   },
   "entrypoints": [
-    "static/css/main.f15e0d7f.css",
+    "static/css/main.1fbf8c9c.css",
     "static/js/main.b8b4ad40.js"
   ]
 }
