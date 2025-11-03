@@ -37,7 +37,7 @@ h1 {
 
 
 .btn,
-.btn1 {
+.btn1 ,.btn3 {
   display: block;
   width: 60%;
   max-width: 300px;
@@ -53,7 +53,8 @@ h1 {
 }
 
 .btn:hover,
-.btn1:hover {
+.btn1:hover,
+.btn3:hover {
   border-radius: 8px;
   background-color: greenyellow;
   color: black;
@@ -75,7 +76,7 @@ h1 {
   }
 
   .btn,
-  .btn1 {
+  .btn1,.btn3 {
     width: 80%;
     font-size: 16px;
   }
@@ -92,7 +93,8 @@ h1 {
   }
 
   .btn,
-  .btn1 {
+  .btn1,
+  .btn3 {
     width: 90%;
     padding: 10px;
     font-size: 14px;
